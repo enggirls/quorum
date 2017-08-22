@@ -1,6 +1,6 @@
 # Quorum
 
-Quorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
+Quorum is an Ethereum-based blockchain protocol with transaction/contract privacy and new consensus mechanisms.
 
 Quorum is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
 
